@@ -1,0 +1,21 @@
+# Python junk
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+backend/.env
+
+# Database
+*.sqlite3
+
+# OS Stuff
+.DS_Store
+Thumbs.db
+
+# Project Specific
+backend/media/
